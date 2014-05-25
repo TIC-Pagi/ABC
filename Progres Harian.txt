@@ -1,0 +1,65 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:ABC-Team
+Judul Topik:Tips Membentuk Tubuh Ideal
+Alamat Github:https://github.com/TIC-Pagi/ABC
+Alamat Trello:https://trello.com/b/Nkdk29Iv/tkppl
+Anggota 1:
+	Nama:Ambri Syahputra
+	NIM:12.111.2872
+Anggota 2:
+	Nama:Berto Eben Ezer
+	NIM:12.111.3118
+Anggota 3:
+	Nama:Christin Natalia Siahaan
+	NIM:12.111.3029
+Anggota 4:
+	Nama:Muhyiddin Isya Siregar
+	NIM:09.111.3277
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 28/5
+Scrummaster: Ambri Syahputra (12.111.2872)
+
+Sprint 2:
+29/5 - 31/5
+Scrummaster: Berto Eben Ezer (12.111.3118)
+
+Sprint 3:
+2/6 - 4/6 
+Scrummaster: Christin Natalia Siahaan (12.111.3029)
+
+Sprint 4:
+5/6 - 7/6
+Scrummaster: Muhyiddin Isya Siregar(09.111.3277)
+
+
+------------------------------------
+
+
+SPRINT
+------
+
+Sprint 1
+26/5
+
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: -
+2. Hari ini saya	: mencari bahan pola makanan berserat tinggi dan membuat, mempelajari bespoke
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: -
+2.Hari ini saya		: mencari bahan pola makan berserat tinggi dan menentukan topik
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: -
+2.Hari ini saya		: konfigurasi git dan mencari bahan olahraga ringan
+3.Saya ada kendala di	: jaringan lelet
