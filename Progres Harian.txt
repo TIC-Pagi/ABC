@@ -63,3 +63,23 @@ Daily Scrum
 1.Semalam saya		: -
 2.Hari ini saya		: konfigurasi git dan mencari bahan olahraga ringan
 3.Saya ada kendala di	: jaringan lelet
+
+------------------------------------------------------------------------------------------------------
+
+
+27/5 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mencari bahan pola makanan berserat tinggi dan membuat, mempelajari bespoke
+2. Hari ini saya	: membuat slide cover presentasi pada bespoke
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mencari bahan pola makan berserat tinggi dan menentukan toopik
+2.Hari ini saya		: menbuat slide indeks masa tubuh pada bespoke
+3.Saya ada kendala di	: mengubah tampilan slide pada bespoke
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: konfigurasi git dan mencari bahan olahraga ringan
+2.Hari ini saya		: mencari bahan pola tider yang baik dan mempelajari bespoke
+3.Saya ada kendala di	: belum paham secara keseluruhan tentang coding pada bespoke
