@@ -71,12 +71,12 @@ Daily Scrum
 Daily Scrum
 (Nama Anggota 1)	: Ambri Syahputra
 1. Semalam saya		: mencari bahan pola makanan berserat tinggi dan membuat, mempelajari bespoke
-2. Hari ini saya	: membuat slide cover presentasi pada bespoke
+2. Hari ini saya	: menbuat slide indeks masa tubuh 
 3. Saya ada kendala di	: mengubah tampilan slide dibespoke
 
 (Nama Anggota 2)	: Berto Eben Ezer
 1.Semalam saya		: mencari bahan pola makan berserat tinggi dan menentukan toopik
-2.Hari ini saya		: menbuat slide indeks masa tubuh pada bespoke
+2.Hari ini saya		: membuat slide cover presentasi pada bespoke pada bespoke
 3.Saya ada kendala di	: mengubah tampilan slide pada bespoke
 
 (Nama Anggota 3)	: Christin Natalia Siahaan
