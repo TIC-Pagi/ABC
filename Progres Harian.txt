@@ -71,7 +71,7 @@ Daily Scrum
 Daily Scrum
 (Nama Anggota 1)	: Ambri Syahputra
 1. Semalam saya		: mencari bahan pola makanan berserat tinggi dan membuat, mempelajari bespoke
-2. Hari ini saya	: menbuat slide indeks masa tubuh 
+2. Hari ini saya	: mengukur serat pada makanan
 3. Saya ada kendala di	: mengubah tampilan slide dibespoke
 
 (Nama Anggota 2)	: Berto Eben Ezer
@@ -80,8 +80,8 @@ Daily Scrum
 3.Saya ada kendala di	: mengubah tampilan slide pada bespoke
 
 (Nama Anggota 3)	: Christin Natalia Siahaan
-1.Semalam saya		: konfigurasi git dan mencari bahan olahraga ringan
-2.Hari ini saya		: mencari bahan pola tider yang baik dan mempelajari bespoke
+1.Semalam saya		: konfigurasi git dan dan install bespoke pada pc sendiri.
+2.Hari ini saya		: mencari bahan gerakan olahraga ringan dan mempelajari bespoke
 3.Saya ada kendala di	: belum paham secara keseluruhan tentang coding pada bespoke
 
 ------------------------------------------------------------------------------------------------------
@@ -89,23 +89,51 @@ Daily Scrum
 28/5 
 Daily Scrum
 (Nama Anggota 1)	: Ambri Syahputra
-1. Semalam saya		: membuat slide cover presentasi pada bespoke
-2. Hari ini saya	: mencari bahan pola makanan berprotein tinggi dan membuatkan slidenya
+1. Semalam saya		: mengukur serat pada makanan
+2. Hari ini saya	: membuat slide indeks masa tubuh
 			  pada bespoke
 3. Saya ada kendala di	: -
 
 (Nama Anggota 2)	: Berto Eben Ezer
-1.Semalam saya		: menbuat slide indeks masa tubuh pada bespoke
-2.Hari ini saya		: menbuat slide indeks masa tubuh pada bespoke dan mencari bahan 
+1.Semalam saya		: membuat slide cover presentasi pada bespoke pada bespoke
+2.Hari ini saya		: memperbaiki slide indeks masa tubuh pada bespoke dan mencari bahan 
 			  indeks masa tubuh
 3.Saya ada kendala di	: mengubah tampilan slide pada bespoke
 
 (Nama Anggota 3)	: Christin Natalia Siahaan
-1.Semalam saya		: mencari bahan pola tider yang baik dan mempelajari bespoke
-2.Hari ini saya		: mencari bahan olahraga ringan
+1.Semalam saya		: mencari bahan pola tidur yang baik dan mempelajari bespoke
+2.Hari ini saya		: mencari bahan pola tidur yang baik
 3.Saya ada kendala di	: belum paham secara keseluruhan tentang coding pada bespoke
 
 (Nama Anggota 4)	: Muhyiddin Isya Siregar
 1.Semalam saya		: -
 2.Hari ini saya		: mencari bahan atur hari bebas 
 3.Saya ada kendala di	: -
+
+---------------------------------------------------------------------------------------------------
+
+Sprint 2
+
+Scrum Master:(Berto Eben Ezer)
+
+29/5 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: membuat slide indeks masa tubuh
+2. Hari ini saya	: mencari bahan Puasa Interminten dan membuat slide bespokenya
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: memperbaiki slide indeks masa tubuh pada bespoke dan mencari bahan 
+2.Hari ini saya		: mencari bahan olahraga berat dan membuat slide bespokenya
+3.Saya ada kendala di	: kesulitan dalam mengedit slide bespoke
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mencari bahan pola tidur yang baik
+2.Hari ini saya		: mencari bahan mengetahui berapa banyak jumblah makanan yang anda konsumsi
+3.Saya ada kendala di	: kurangnya referensi bahan yang dicari
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mencari bahan atur hari bebas 
+2.Hari ini saya		: mencari bahan atur hari bebas dan membuat slidenya pada bespoke
+3.Saya ada kendala di	: belum terlalu paham dengan sintaks bespoke
