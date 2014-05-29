@@ -1,0 +1,25 @@
+
+Apa itu kalori?
+Kalori merupakan satuan tenaga yang akan dibakar oleh tubuh. Banyaknya jumlah kalori yang dibutuhkan dapat berbeda-beda tiap orang. Hal ini karena kebutuhan akan energi yang berbeda yang dipengaruhi berat badan, jenis kelamin, umur dan jenis aktivitas fisik yang dilakukan.
+
+Jika kita menyantap makanan dengan jumlah kalori lebih banyak daripada yang dibutuhkan oleh tubuh kita akan menyebabkan berat badan kita bertambah bahkan berpotensi menjadi obesitas. Misalnya, lemak mengandung 9 kalori per gram, dibandingkan dengan 4 kalori dalam satu gram protein atau satu gram karbohidrat.
+
+Jadi kita memasukkan lebih banyak kalori apabila kita mengkonsumsi lemak. Faktor lain adalah cara tubuh manusia menggunakan energi yang dipasok oleh karbohidrat, protein, dan lemak. Mula-mula, tubuh membakar karbohidrat dan protein, baru kemudian lemak. Kalori lemak yang tak terpakai dikonversi menjadi lemak tubuh. Jadi mengurangi makanan berlemak adalah cara yang penting untuk mengurangi berat badan.
+
+
+Hitung Kebutuhan.
+Perhitungan pertama yang dilakukan adalah menghitung angka metabolisme basal (AMB). Rumusnya adalah:
+ AMB = 0,9 kkal x berat badan (dalam kg) x 24 jam
+
+Untuk menghitung kebutuhan energi harian, maka angka AMB yang didapat kemudian dikalikan dengan variabel dari aktivitas fisik yang Anda lakukan. Aktivitas dan variabel yang dilakukan adalah sebagai berikut:
+
+    Ringan = 1,55
+    Sedang = 1,70
+    Berat = 2,00
+
+Kurangi kebutuhan kalori kurang lebih 500 kkal agar berat badan turun sekitar 0,5 kg setiap minggunya.
+Contoh Menghitung Kalori
+Sebagai karyawan dengan aktivitas ringan (yang sebagian besar waktunya dihabiskan dengan duduk di depan komputer), berat badan A adalah 60 kg. Berapa kebutuhan energi harian dari A?
+
+    AMB = 0,9 kkal x 60 kg x 24 jam = 1296
+    Kebutuhan energi harian (kategori ringan) = 1,55 x 1296 = 2008,8 kkal
