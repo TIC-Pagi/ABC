@@ -124,8 +124,8 @@ Daily Scrum
 3. Saya ada kendala di	: mengubah tampilan slide dibespoke
 
 (Nama Anggota 2)	: Berto Eben Ezer
-1.Semalam saya		: memperbaiki slide indeks masa tubuh pada bespoke dan mencari bahan 
-2.Hari ini saya		: mencari bahan olahraga berat dan membuat slide bespokenya
+1.Semalam saya		: memperbaiki slide indeks masa tubuh pada bespoke dan mencari bahan
+2.Hari ini saya		: mencari bahan olahraga berat
 3.Saya ada kendala di	: kesulitan dalam mengedit slide bespoke
 
 (Nama Anggota 3)	: Christin Natalia Siahaan
@@ -134,6 +134,31 @@ Daily Scrum
 3.Saya ada kendala di	: kurangnya referensi bahan yang dicari
 
 (Nama Anggota 4)	: Muhyiddin Isya Siregar
-1.Semalam saya		: mencari bahan atur hari bebas 
+1.Semalam saya		: mencari bahan atur hari bebas
 2.Hari ini saya		: mencari bahan atur hari bebas dan membuat slidenya pada bespoke
 3.Saya ada kendala di	: belum terlalu paham dengan sintaks bespoke
+
+--------------------------------------------------------------------------------------------------
+
+30/5 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mencari bahan Puasa Interminten dan membuat slide bespokenya
+2. Hari ini saya	: mencari bahan Puasa Interminten dan membuat slide bespokenya
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mencari bahan olahraga berat
+2.Hari ini saya		: mendesain slide olahraga berat
+3.Saya ada kendala di	: merubah desain
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mencari bahan mengetahui berapa banyak jumlah makanan yang anda konsumsi
+2.Hari ini saya		: mendesain jumlah makanan yang dikonsumsi pada bespoke
+3.Saya ada kendala di	: kesulitan mendesain
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mencari bahan atur hari bebas 
+2.Hari ini saya		: membuat slide atur hari bebas pada bespoke
+3.Saya ada kendala di	: belum terlalu paham dengan sintaks bespoke
+
