@@ -162,3 +162,4 @@ Daily Scrum
 2.Hari ini saya		: membuat slide atur hari bebas pada bespoke
 3.Saya ada kendala di	: belum terlalu paham dengan sintaks bespoke
 
+--------------------------------------------------------------------------------------------------
