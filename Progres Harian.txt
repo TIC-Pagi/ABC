@@ -163,3 +163,5 @@ Daily Scrum
 3.Saya ada kendala di	: belum terlalu paham dengan sintaks bespoke
 
 --------------------------------------------------------------------------------------------------
+
+2/87
