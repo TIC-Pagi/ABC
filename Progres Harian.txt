@@ -1,4 +1,4 @@
-============================================
+=======================
 INFORMASI UMUM
 
 Nama kelompok:ABC-Team
@@ -46,6 +46,9 @@ SPRINT
 ------
 
 Sprint 1
+
+Scrum master : (Ambri Syahputra)
+
 26/5
 
 Daily Scrum
@@ -114,9 +117,10 @@ Daily Scrum
 
 Sprint 2
 
-Scrum Master:(Berto Eben Ezer)
+Scrum Master :(Berto Eben Ezer)
 
 29/5 
+
 Daily Scrum
 (Nama Anggota 1)	: Ambri Syahputra
 1. Semalam saya		: membuat slide indeks masa tubuh
@@ -144,7 +148,7 @@ Daily Scrum
 Daily Scrum
 (Nama Anggota 1)	: Ambri Syahputra
 1. Semalam saya		: mencari bahan Puasa Interminten dan membuat slide bespokenya
-2. Hari ini saya	: mencari bahan Puasa Interminten dan membuat slide bespokenya
+2. Hari ini saya	: slide makanan berprotein tinggi
 3. Saya ada kendala di	: mengubah tampilan slide dibespoke
 
 (Nama Anggota 2)	: Berto Eben Ezer
@@ -164,11 +168,176 @@ Daily Scrum
 
 --------------------------------------------------------------------------------------------------
 
-2/87
+31/5 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: slide makanan berprotein tinggi
+2. Hari ini saya	: mendesain slide puasa intermiten
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
 
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mendesain slide olahraga berat
+2.Hari ini saya		: memasukkan gambar pada slide olahraga berat
+3.Saya ada kendala di	: merubah desain
 
-3/343
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mendesain jumlah makanan yang dikonsumsi pada bespoke
+2.Hari ini saya		: memperbaiki slide jumlah makanan yang dikonsumsi
+3.Saya ada kendala di	: kesulitan mendesain
 
-4/6
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: membuat slide atur hari bebas pada bespoke 
+2.Hari ini saya		: memperbaiki slide atur hari bebas
+3.Saya ada kendala di	: -
 
-6/6
+--------------------------------------------------------------------------------------------------
+
+Sprint 3
+
+Scrum master : (Christin Natalia Siahaan)
+
+2/6 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mendesain slide puasa intermiten
+2. Hari ini saya	: mencari bahan posisi tidur yang baik
+3. Saya ada kendala di	: -
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: memasukkan gambar pada slide olahraga berat
+2.Hari ini saya		: mencari bahan lama waktu tidur
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: memperbaiki slide jumlah makanan yang dikonsumsi
+2.Hari ini saya		: mencari bahan tips pola tidur
+3.Saya ada kendala di	: -
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: memperbaiki slide atur hari bebas
+2.Hari ini saya		: mencari bahan definisi pola tidur
+3.Saya ada kendala di	: -
+
+--------------------------------------------------------------------------------------------------
+
+3/6 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mencari bahan posisi tidur yang baik
+2. Hari ini saya	: mendesain slide posisi tidur yang baik
+3. Saya ada kendala di	: mengubah tampilan slide dibespoke
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mencari bahan lama waktu tidur
+2.Hari ini saya		: mendesain slide lama waktu tidur
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mencari bahan tips pola tidur
+2.Hari ini saya		: mendesain bahan tips pola tidur
+3.Saya ada kendala di	: kesulitan mendesain
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mencari bahan definisi pola tidur
+2.Hari ini saya		: mendesain bahan defenisi pola tidur
+3.Saya ada kendala di	: kurang ide
+
+--------------------------------------------------------------------------------------------------
+
+4/6 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mendesain slide posisi tidur yang baik
+2. Hari ini saya	: memasukkan gambar pada slide posisi tidur
+3. Saya ada kendala di	: -
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mendesain slide lama waktu tidur
+2.Hari ini saya		: perbaikan slide lama waktu tidur
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mendesain bahan tips pola tidur
+2.Hari ini saya		: merubah tampilan slide tips pola tidur
+3.Saya ada kendala di	: kesulitan mendesain
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mendesain bahan defenisi pola tidur
+2.Hari ini saya		: mencari bahan untuk topik cek kesehatan tubuh
+3.Saya ada kendala di	: -
+
+--------------------------------------------------------------------------------------------------
+
+Sprint 4
+
+Scrum Master : (Muhyiddin Isya S)
+
+5/6 
+Daily Scrum
+ (Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: memasukkan gambar pada slide posisi tidur
+2. Hari ini saya	: mencari artikel tentang kondisi gula darah
+3. Saya ada kendala di	: -
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: perbaikan slide lama waktu tidur
+2.Hari ini saya		: mencari tips menjaga kesehatan tulang
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: merubah tampilan slide tips pola tidur
+2.Hari ini saya		: mencari referensi kesehatan jantung di artikel khusus ahli jantung
+3.Saya ada kendala di	: -
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mencari bahan untuk topik cek kesehatan tubuh
+2.Hari ini saya		: menentukan topik cek kesehatan tubuh
+3.Saya ada kendala di	: -
+
+--------------------------------------------------------------------------------------------------
+
+6/6 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: mencari artikel tentang kondisi gula darah
+2. Hari ini saya	: membuat kesimpulan dari bahan yang telah didapat
+3. Saya ada kendala di	: kesulitan dalam membuat bahasa yang baku
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1. Semalam saya		: mencari tips menjaga kesehatan tulang
+2. Hari ini saya	: mencari gambar tentang tulang
+3. Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1. Semalam saya		: mencari referensi kesehatan jantung di artikel khusus ahli jantung
+2. Hari ini saya	: mencari bahan penyebab penyakit jantung
+3. Saya ada kendala di	: -
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1. Semalam saya		: menentukan topik cek kesehatan tubuh
+2. Hari ini saya	: mencari referensi tentang kecukupan nutrisi
+3. Saya ada kendala di	: -
+
+--------------------------------------------------------------------------------------------------
+
+7/6 
+Daily Scrum
+(Nama Anggota 1)	: Ambri Syahputra
+1. Semalam saya		: membuat kesimpulan dari bahan yang telah didapat
+2. Hari ini saya	: membuat slide kondisi gula darah
+3. Saya ada kendala di	: -
+
+(Nama Anggota 2)	: Berto Eben Ezer
+1.Semalam saya		: mencari gambar tentang tulang
+2.Hari ini saya		: membuat slide kekuatan tulang
+3.Saya ada kendala di	: -
+
+(Nama Anggota 3)	: Christin Natalia Siahaan
+1.Semalam saya		: mencari bahan perbedaan jantung sehat dan yang tidak sehat
+2.Hari ini saya		: membuat slide kesehatan jantung dan slide jumlah makanan yang di konsumsi
+3.Saya ada kendala di	: -
+
+(Nama Anggota 4)	: Muhyiddin Isya Siregar
+1.Semalam saya		: mencari referensi tentang kecukupan nutrisi
+2.Hari ini saya		: membuat slide kecukupan nutrisi
+3.Saya ada kendala di	: -
