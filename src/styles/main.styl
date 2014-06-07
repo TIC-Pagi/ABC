@@ -3,7 +3,7 @@
 // variables!
 
 slide_width = 100%
-slide_height = 690px
+slide_height = 780px
 slide_background = #8FBC8B
 
 slide_transition_length = .6s
@@ -80,10 +80,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: translateX(slide_transition_nudge_x * -1) translateY(slide_width / -7) rotateY(slide_transition_rotate_y * -1) translateY(slide_width / -2)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: translateX(slide_transition_nudge_x) translateZ(slide_width / 2) rotateY(slide_transition_rotate_y) translateZ(slide_width / 2)
   @media print
     transform: none
 
@@ -140,7 +140,7 @@ article
   transition: width .6s ease
   position: absolute
   height: 100%
-  background: #0089f3
+  background: red
   border-radius: 0 4px 4px 0
 
 // bespoke-state styles
@@ -163,7 +163,7 @@ body
   color: #404040
 
 h1
-  font-size: 72px
+  font-size: 65px
   line-height: 82px
   letter-spacing: -2px
   margin-bottom: 16px
@@ -174,7 +174,7 @@ h2
   margin-bottom: 8px
 
 h3
-  font-size: 24px
+  font-size: 26px
   font-weight: normal
   margin-bottom: 24px
   color: #606060
@@ -188,14 +188,16 @@ ul
 
 li
   margin-bottom: 12px
-  list-style-type:none
-  font-size:22px
+  font-size: 26px
+  list-style-type: none
 
 p
-  margin: 0 100px 12px
+  margin: 0 100px 16px
   line-height: 22px
-  font-size:22px
+  font-size: 26px
+
 
 a
-  color: #0089f3
+  color: red
   text-decoration: none
+  
